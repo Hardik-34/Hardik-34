@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Hardik-34
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning FEWD
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Hardiksugandhi03@gmail.com
+## 👋 Hey, I'm Hardik Sugandhi
 
-<!---
-Hardik-34/Hardik-34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔭 Software Engineer @ TCS, building scalable backend systems for
+   India's national healthcare platforms (PMJAY, CGHS, CAPF) —
+   serving 500M+ beneficiaries across 28 states.
+
+🛠️ Tech I work with daily:
+   Java · Spring Boot · Microservices · Apache Kafka
+   Redis · PostgreSQL · Docker · REST APIs · JWT
+
+🧠 Currently exploring:
+   System Design · AI-powered backends · Cloud Architecture
+
+🏆 Highlights:
+   → Processed 50,000+ healthcare transactions daily
+   → Reduced fraudulent claims by 25% via anomaly detection APIs
+   → Azure AI Engineer Associate certified
+
+💡 I build things that matter at scale.
+
+📬 Reach me → hardiksugandhi03@gmail.com
+🔗 LinkedIn → linkedin.com/in/hardiksugandhi
